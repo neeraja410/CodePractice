@@ -14,7 +14,8 @@ public class AssignToys {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//list of Students
-		List <String> listOfStudents=new ArrayList<String>();
+		//inserted a comment
+                List <String> listOfStudents=new ArrayList<String>();
 		listOfStudents.add("Raju");
 		listOfStudents.add("Jagadesh");
 		listOfStudents.add("Ramana");
